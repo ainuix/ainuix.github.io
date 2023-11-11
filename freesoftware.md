@@ -2,7 +2,8 @@
 
 使用開源或免費軟件替換商業收費軟件。這些軟件多數都可跨平台使用，个別僅能在 Windows 平台或 Linux 平台上使用。
 
-^ 收費軟件 ^ 開源或免費替代品 ^
+| 收費軟件 | 開源或免費替代品 |
+| ---------- | -------------------- |
 | 辦公軟件 | [[https://www.libreoffice.org|LibreOffice]] — [[https://www.wps.cn/|WPS]] |
 | 文本編輯 | [[http://www.fodian.net/tools/TextPro65.rar|TextPro]] — [[https://www.rizonesoft.com/downloads/notepad3/|Notepad3]] — [[https://github.com/zufuliu/notepad2/releases|Notepad2]] （Windows） — [[:unix:shells:emacs|Emacs]] — [[:unix:shells:vim|vim]] — [[https://github.com/dail8859/NotepadNext|Notepad Next]] — [[:unix:shells:micro|Micro]] — [[https://lite-xl.com/en/downloads|Lite XL]] |
 | 代碼編輯器 | [[https://lapce.dev|Lapce]] — [[https://code.visualstudio.com/|Visual Studio Code]] — [[https://netbeans.apache.org/download/|NetBeans]] — [[https://www.sublimetext.com/|Sublime Text]] — [[https://gitee.com/cxasm/notepad--|Notepad--]] — [[https://macromates.com/|TextMate]] — [[https://www.jetbrains.com/pycharm/download/|PyCharm Community]] |
