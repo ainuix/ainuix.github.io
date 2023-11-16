@@ -36,21 +36,21 @@ Pandoc 程序的命令使用方式為：
 \<options\> 為參數選項。主要的參數選項有：
 
 ``` 
-    -f <format>、-r <format>：指定輸入文件格式，默認為 Markdown；
-    -t <format>、-w <format>：指定輸出文件格式，默認為 HTML；
-    -o <file>：指定輸出文件，該項缺省時，將輸出到標準輸出；
-    --highlight-style <style>：設置代碼高亮主題，默認為 pygments；
-    -s：生成有頭尾的獨立文件（HTML，LaTeX，TEI 或 RTF）；
-    -S：聰明模式，根據文件判斷其格式；
-    --self-contained：生成自包含的文件，僅在輸出 HTML 文檔時有效；
-    --verbose：開啟 Verbose 模式，用於 Debug；
-    --list-input-formats：列出支持的輸入格式；
-    --list-output-formats：列出支持的輸出格式；
-    --list-extensions：列出支持的 Markdown 擴展方案；
-    --list-highlight-languages：列出支持代碼高亮的編程語言；
-    --list-highlight-styles：列出支持的代碼高亮主題；
-    -v、--version：顯示程序的版本號；
-    -h、--help：顯示程序的幫助信息。
+-f <format>、-r <format>：指定輸入文件格式，默認為 Markdown；
+-t <format>、-w <format>：指定輸出文件格式，默認為 HTML；
+-o <file>：指定輸出文件，該項缺省時，將輸出到標準輸出；
+--highlight-style <style>：設置代碼高亮主題，默認為 pygments；
+-s：生成有頭尾的獨立文件（HTML，LaTeX，TEI 或 RTF）；
+-S：聰明模式，根據文件判斷其格式；
+--self-contained：生成自包含的文件，僅在輸出 HTML 文檔時有效；
+--verbose：開啟 Verbose 模式，用於 Debug；
+--list-input-formats：列出支持的輸入格式；
+--list-output-formats：列出支持的輸出格式；
+--list-extensions：列出支持的 Markdown 擴展方案；
+--list-highlight-languages：列出支持代碼高亮的編程語言；
+--list-highlight-styles：列出支持的代碼高亮主題；
+-v、--version：顯示程序的版本號；
+-h、--help：顯示程序的幫助信息。
 ```
 
 雖然 Pandoc
@@ -72,7 +72,7 @@ $ pandoc demo.md -o demo.pdf
 # 由Word docx 生成 Markdown
 $ pandoc demo.docx -o demo.md
 # 由 HTML 网页生成 Markdow
-$ pandoc http://www.cioworld.net/demo.html -o demo.md
+$ pandoc http://www.demo.com/demo.html -o demo.md
 # 由 HTML 文件生成 Dokuwiki
 $ pandoc -f html -t dokuwiki demo.html -o demo.txt
 # 由 Markdown 生成 Dokuwiki
