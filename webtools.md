@@ -1,6 +1,7 @@
-#常用網絡服務列表
+# 常用網絡服務列表
 
-
+| 分類 | 網站 |
+|---|---|
 | 摳圖工具 | [Remove](https://www.remove.bg/zh/upload) 、 [佐糖](https://picwish.cn) 、 [改图鸭](https://www.gaituya.com/koutu/) 、 [Magic Eraser](https://magicstudio.com/zh/magiceraser)(免费无需注册) 、 [改图神器](https://img.logosc.cn/remove-bg)(每日有限制) 、 [一键抠图](https://www.yijiankoutu.com/) 、 [Photopea 在线PS](https://www.photopea.com) |
 | 翻譯工具 | [Lingva Translate](https://lingva.ml) ([谷歌翻譯](https://github.com/thedaviddelta/lingva-translate)) 、 [DeepL](https://www.deepl.com/) 、 [Bing 翻譯](https://cn.bing.com/translator) 、 [百度翻譯](https://fanyi.baidu.com) 、 [有道翻譯](https://fanyi.youdao.com)         |
 | 純淨 Windows 系統下載源 | [MSDN ITELLYOU](https://msdn.itellyou.cn/) 、 [MSDN ITELLYOU 新版](https://next.itellyou.cn/) 、 [MSDN系統庫](https://www.xitongku.com/) 、 [HelloWindows](https://hellowindows.cn/) 、 [List of files by Microsoft](https://files.rg-adguard.net/) 、 [优启吧](https://www.uqiba.com)   |
