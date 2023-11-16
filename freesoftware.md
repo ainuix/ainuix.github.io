@@ -43,7 +43,7 @@
 |  SSH 遠程連接工具 | [WindTerm](https://github.com/kingToolbox/WindTerm/) 、 [Xshell](https://www.xshell.com/zh/free-for-home-school/) 、 [WinSCP](https://winscp.net/eng/index.php) 、 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) 、 [Tabby](https://tabby.sh) 、 [mRemoteNG](https://mremoteng.org/) 、 [TeraTerm](http://ttssh2.osdn.jp) 、 [Remmina](https://remmina.org) （Linux） |
 |  財務軟件 | [GnuCash](https://www.gnucash.org) 、 [GNU PSPP](https://www.gnu.org/software/pspp/) 、 [GnuMeric](https://www.gnome.org/projects/gnumeric/) |
 |  數學教學 | [GeoGebra](https://www.geogebra.org) |
-|  版本控制系統 | [Git](https://git-scm.com) 、 [TortoiseGit](https://tortoisegit.org/) 、 [Mercurial](https://www.mercurial-scm.org) |
+|  版本控制系統 | [Git](https://git-scm.com) 、 [TortoiseGit](https://tortoisegit.org/) 、 [Mercurial](https://www.mercurial-scm.org) 、 [Sourcetree](https://www.sourcetreeapp.com)  、 [Gittyup](https://github.com/Murmele/Gittyup) |
 |  密碼管理器 | [KeePass](https://keepass.info) 、 [KeePassXC](https://keepassxc.org/) 、 [LastPass](https://www.lastpass.com/) |
 |  IRC 客戶端 | [HexChat](https://hexchat.github.io) 、 [XChat](http://xchat.org/XChat) |
 |  聖經研經軟件 | [theWord](https://www.theword.net) 、 [E‑SWORD](https://www.e-sword.net) 、 [Xiphos](https://xiphos.org) 、 [The SWORD Project](http://www.crosswire.org/sword/) 、 [Bible Analyzer](http://www.bibleanalyzer.com) |
